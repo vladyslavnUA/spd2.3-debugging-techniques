@@ -20,7 +20,7 @@ The second exercise is a Flask application that tells you what the weather is in
 
 **Your job is to get the Results page in working order**, so that it correctly shows the weather in the user's city and uses the given units of measurement. Make sure to watch out for multiple bugs!
 
-## Exercise 3
+## Exercise 3 - Searching/Sorting
 
 The third exercise contains a searching & sorting algorithm. The `main.py` file contains some test code that isn't quite working yet. **If you can, try to solve this one without looking up solutions to the algorithms.** 
 
