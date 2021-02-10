@@ -13,7 +13,8 @@ from flask import Flask, render_template, request, send_file
 app = Flask(__name__)
 
 load_dotenv()
-API_KEY = os.getenv('API_KEY')
+API_KEY = '7e247499e6bbed93c3bd35baf2018838'
+# os.getenv('API_KEY')
 
 
 ################################################
